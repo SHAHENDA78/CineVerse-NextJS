@@ -4,7 +4,7 @@ CineVerse is a modern movie discovery web application built with Next.js. It all
 
 ## Live Demo
 
-https://final-project-next-seven.vercel.app/
+https://cineverse-next.vercel.app
 
 ## Features
 
